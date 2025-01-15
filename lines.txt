@@ -6,6 +6,7 @@ vehicleside
 11804, vehicle11804, vehicle11804, 	bike, 		FREEWAY, 	FREEWAY, 	bikeh, 	motorbike, 	10, 	0, 	0, 		23,  0.654,  0.654, 	-1
 11805, vehicle11805, vehicle11805, 	bike, 		FREEWAY, 	FREEWAY, 	bikeh, 	motorbike, 	10, 	0, 	0, 		23,  0.654,  0.654, 	-1
 11806, vehicle11806, vehicle11806, 		bike, 		FCR900, 		FCR900, 		bikes, 	motorbike, 	6, 	0, 	3f341210, 		16,  0.68,  0.68, 		-1
+11807, vehicle11807, vehicle11807,  	car,  		CHEETAH,  	CHEETAH,  	null, 	executive,  	5,  	0, 	0, 		-1,  0.68,  0.68, 		0
 
 carmods
 vehicle11800, nto_b_l, nto_b_s, nto_b_tw
@@ -15,3 +16,4 @@ vehicle11803, nto_b_l, nto_b_s, nto_b_tw
 vehicle11804, nto_b_l, nto_b_s, nto_b_tw
 vehicle11805, nto_b_l, nto_b_s, nto_b_tw
 vehicle11806, nto_b_l, nto_b_s, nto_b_tw
+vehicle11807, nto_b_l, nto_b_s, nto_b_tw
